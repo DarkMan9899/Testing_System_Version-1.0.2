@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb5"
+  },
+  "firstName": "Bennie",
+  "lastName": "Halvorson",
+  "subject": "crypto",
+  "score": 91,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb6"
+  },
+  "firstName": "Gayle",
+  "lastName": "Donnelly",
+  "subject": "crypto",
+  "score": 45,
+  "group": "B2"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb7"
+  },
+  "firstName": "Beth",
+  "lastName": "Williamson",
+  "subject": "crypto",
+  "score": 82,
+  "group": "B1"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb8"
+  },
+  "firstName": "Nathan",
+  "lastName": "Mayert",
+  "subject": "math",
+  "score": 51,
+  "group": "A2"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb9"
+  },
+  "firstName": "Felicia",
+  "lastName": "Vandervort",
+  "subject": "math",
+  "score": 88,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3ba"
+  },
+  "firstName": "Ignacio",
+  "lastName": "Kuhlman",
+  "subject": "math",
+  "score": 80,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3bb"
+  },
+  "firstName": "Dana",
+  "lastName": "Lindgren",
+  "subject": "math",
+  "score": 42,
+  "group": "B1"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3bc"
+  },
+  "firstName": "Willard",
+  "lastName": "Walter",
+  "subject": "crypto",
+  "score": 57,
+  "group": "B2"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3bd"
+  },
+  "firstName": "Esther",
+  "lastName": "Wiegand",
+  "subject": "math",
+  "score": 78,
+  "group": "B2"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3be"
+  },
+  "firstName": "Roy",
+  "lastName": "Hackett",
+  "subject": "crypto",
+  "score": 87,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c4"
+  },
+  "firstName": "Andre",
+  "lastName": "Thompson",
+  "subject": "math",
+  "score": 66,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c5"
+  },
+  "firstName": "Cory",
+  "lastName": "Leannon",
+  "subject": "crypto",
+  "score": 100,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c6"
+  },
+  "firstName": "Josh",
+  "lastName": "Fisher",
+  "subject": "crypto",
+  "score": 89,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c7"
+  },
+  "firstName": "Lynne",
+  "lastName": "Stamm",
+  "subject": "math",
+  "score": 74,
+  "group": "A1"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c8"
+  },
+  "firstName": "Julian",
+  "lastName": "Ratke",
+  "subject": "math",
+  "score": 82,
+  "group": "B1"
+}]

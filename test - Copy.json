@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "5f636b95384fec140c55dde9"
+  },
+  "correct": 1,
+  "type": 2,
+  "question": " Hello, what ______ your name?",
+  "answer_1": "is",
+  "answer_2": "are",
+  "answer_3": "am",
+  "answer_4": "be",
+  "score": "1",
+  "level": "A",
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636bda384fec140c55ddea"
+  },
+  "question": " ______ name is John. And my ______ is Johnson.\n",
+  "answer_1": " Your / surname",
+  "answer_2": "My / surname",
+  "answer_3": " I / surname",
+  "answer_4": " I / name",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 2,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636c24384fec140c55ddeb"
+  },
+  "question": "My name is Lisa. ______ Lisa Peterson",
+  "answer_1": "My am",
+  "answer_2": "I is",
+  "answer_3": "I am",
+  "answer_4": "I",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636c68384fec140c55ddec"
+  },
+  "question": " ______ name is Apple. ______ Ann Apple",
+  "answer_1": "His / She",
+  "answer_2": " His / He’s",
+  "answer_3": "Her / She’s",
+  "answer_4": " His / His",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636d75384fec140c55dded"
+  },
+  "question": " “Where ______ John from?” “______ from the US.”",
+  "answer_1": " is / He’s",
+  "answer_2": " is / His",
+  "answer_3": "am / He’s",
+  "answer_4": " is / She’s",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 1,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636d92384fec140c55ddee"
+  },
+  "question": " ______ are you from? Japan.",
+  "answer_1": "What",
+  "answer_2": "Who",
+  "answer_3": "Where",
+  "answer_4": "When",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636dad384fec140c55ddef"
+  },
+  "question": " Where ______ you ______ ?",
+  "answer_1": " is / from",
+  "answer_2": "are / in",
+  "answer_3": "are / is",
+  "answer_4": "are / from",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 4,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636dd3384fec140c55ddf0"
+  },
+  "question": " ______ from Spain. I’m Rodriguez ",
+  "answer_1": "I'm",
+  "answer_2": "He's",
+  "answer_3": "You're",
+  "answer_4": "She's",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 1,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636df5384fec140c55ddf1"
+  },
+  "question": "Pierre is a French boy. ______ from ______ .",
+  "answer_1": " He’s / France",
+  "answer_2": "His’s / French",
+  "answer_3": " His / France",
+  "answer_4": " His / France",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 1,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636e14384fec140c55ddf2"
+  },
+  "question": "Lisa and Max are Americans. ______ from U.S.A",
+  "answer_1": " There",
+  "answer_2": "Their",
+  "answer_3": "They’re",
+  "answer_4": "Their’re",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636e3b384fec140c55ddf3"
+  },
+  "question": "“What ____ their _____?”\n“Alexander and Philip.”",
+  "answer_1": "are/name",
+  "answer_2": " is / name",
+  "answer_3": " is / names",
+  "answer_4": "are / names",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 2,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636e61384fec140c55ddf4"
+  },
+  "question": "I ______ 22 years old, but Andrew ______ 20.",
+  "answer_1": "am / am",
+  "answer_2": "are / am",
+  "answer_3": " am / is",
+  "answer_4": " are / are",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636e8e384fec140c55ddf5"
+  },
+  "question": "Mark______ 19, but Brian and Denis ______ 26 and 28",
+  "answer_1": " is / are",
+  "answer_2": " are / is",
+  "answer_3": " are / are",
+  "answer_4": "am / are",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 1,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636eb8384fec140c55ddf6"
+  },
+  "question": "“What ______ this?”\n“It’s ______ umbrella.”",
+  "answer_1": " are / a",
+  "answer_2": " is / a",
+  "answer_3": " is / an",
+  "answer_4": " its / an",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 1,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636eed384fec140c55ddf7"
+  },
+  "question": "Oxford is ______ English university",
+  "answer_1": "an",
+  "answer_2": "the",
+  "answer_3": "a",
+  "answer_4": "*",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 1,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f636f16384fec140c55ddf8"
+  },
+  "question": "Toyotas ______ Japanese ______ .",
+  "answer_1": "is a / car",
+  "answer_2": "is / car",
+  "answer_3": " are / cars",
+  "answer_4": " is / cars",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f64532aa5b7ad3d40dc6037"
+  },
+  "correct": 4,
+  "type": 2,
+  "question": "“What is ______ ?”\n“She is a bank manager.”",
+  "answer_1": "his job",
+  "answer_2": "she job",
+  "answer_3": " he job",
+  "answer_4": " her job",
+  "score": "1",
+  "level": "A",
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f64534ea5b7ad3d40dc6038"
+  },
+  "question": "0/2/11/18/20 Find the correct alternative",
+  "answer_1": " oh / twelve / eighteen / twenty",
+  "answer_2": " zero / two / one-one / eighteen / twenty",
+  "answer_3": "zero / two / eleven / eighteen / twenty",
+  "answer_4": "zero / two / eleven / eighty / twenty",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f645372a5b7ad3d40dc6039"
+  },
+  "question": "“How old is your aunt?”\n“______ is 29.”",
+  "answer_1": "She",
+  "answer_2": " He",
+  "answer_3": "She’s",
+  "answer_4": "He’s",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f645394a5b7ad3d40dc603a"
+  },
+  "question": "“Where ______ she from?”\n“She ______ from Japan.”",
+  "answer_1": "are / is",
+  "answer_2": " is / is",
+  "answer_3": "is / am",
+  "answer_4": " are / are",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 2,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f6453c1a5b7ad3d40dc603b"
+  },
+  "question": "This ______ my friend. ______ name’s Richard",
+  "answer_1": " are / His",
+  "answer_2": " is / My",
+  "answer_3": " is / His",
+  "answer_4": "his / His",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f6453e5a5b7ad3d40dc603c"
+  },
+  "question": "They ______ Lisa and Max. They ______ from the USA",
+  "answer_1": " is / is",
+  "answer_2": "are / is",
+  "answer_3": "are / are",
+  "answer_4": " is / is",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f645400a5b7ad3d40dc603d"
+  },
+  "question": "“What is ______ name?” “My name’s Carlos.”",
+  "answer_1": "his",
+  "answer_2": "her",
+  "answer_3": "your",
+  "answer_4": "my",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f64541fa5b7ad3d40dc603e"
+  },
+  "question": "This is my sister. ______ name is Laura",
+  "answer_1": "His",
+  "answer_2": "My",
+  "answer_3": "Her",
+  "answer_4": " Its",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+},{
+  "_id": {
+    "$oid": "5f64543ba5b7ad3d40dc603f"
+  },
+  "question": "I have ______ brother. ______ name is David",
+  "answer_1": " an / His",
+  "answer_2": " a / Her",
+  "answer_3": " a / His",
+  "answer_4": "* / His",
+  "score": "1",
+  "level": "A",
+  "type": 2,
+  "correct": 3,
+  "subject": "English"
+}]

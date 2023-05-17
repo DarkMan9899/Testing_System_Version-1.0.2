@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb0"
+  },
+  "firstName": "Bennie",
+  "lastName": "Halvorson",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "bennie.halvorson@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb1"
+  },
+  "firstName": "Gayle",
+  "lastName": "Donnelly",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "gayle53@gmail.com",
+  "group": "B2",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb2"
+  },
+  "firstName": "Beth",
+  "lastName": "Williamson",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "beth37@gmail.com",
+  "group": "B1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb3"
+  },
+  "firstName": "Nathan",
+  "lastName": "Mayert",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "nathan73@gmail.com",
+  "group": "A2",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d81ef637988358c65bcb4"
+  },
+  "firstName": "Felicia",
+  "lastName": "Vandervort",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "felicia26@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3b5"
+  },
+  "firstName": "Ignacio",
+  "lastName": "Kuhlman",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "ignacio.kuhlman25@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3b6"
+  },
+  "firstName": "Dana",
+  "lastName": "Lindgren",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "dana.lindgren@gmail.com",
+  "group": "B1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3b7"
+  },
+  "firstName": "Willard",
+  "lastName": "Walter",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "willard_walter92@gmail.com",
+  "group": "B2",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3b8"
+  },
+  "firstName": "Esther",
+  "lastName": "Wiegand",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "esther.wiegand@gmail.com",
+  "group": "B2",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83d4e2f18c3a08dce3b9"
+  },
+  "firstName": "Roy",
+  "lastName": "Hackett",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "roy_hackett@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3bf"
+  },
+  "firstName": "Andre",
+  "lastName": "Thompson",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "andre_thompson82@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c0"
+  },
+  "firstName": "Cory",
+  "lastName": "Leannon",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "cory31@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c1"
+  },
+  "firstName": "Josh",
+  "lastName": "Fisher",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "josh.fisher@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c2"
+  },
+  "firstName": "Lynne",
+  "lastName": "Stamm",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "lynne96@gmail.com",
+  "group": "A1",
+  "type": "student"
+},{
+  "_id": {
+    "$oid": "600d83dae2f18c3a08dce3c3"
+  },
+  "firstName": "Julian",
+  "lastName": "Ratke",
+  "password": "d9f39d4cf9bbbf6264bc38609bc2d1e3278ae225edc4428d3734e907fdc23d16",
+  "email": "julian_ratke44@gmail.com",
+  "group": "B1",
+  "type": "student"
+}]
